@@ -2,8 +2,8 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'd9ce7e928dmsha530eb1fef4ac4bp15963cjsn24f51d4a161c',
-		'X-RapidAPI-Host': 'foreca-weather.p.rapidapi.com'
+		'X-RapidAPI-Key': '',
+		'X-RapidAPI-Host': ''
 	}
 };
 const url = 'https://foreca-weather.p.rapidapi.com/location/search/delhi?lang=en&country=in';
